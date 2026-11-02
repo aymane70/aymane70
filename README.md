@@ -1,160 +1,189 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:2c5364,100:00d4aa&text=Aymane%20Lambarki&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Data%20%2F%20AI%20Engineer&descAlignY=58&descSize=22&animation=fadeIn" width="100%" alt="Aymane Lambarki — Data / AI Engineer" />
+
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey, I'm Aymane Lambarki
+<a href="https://github.com/aymane70">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D4AA&center=true&vCenter=true&width=720&lines=Real-time+streaming+pipelines+%E2%9A%A1;Lakehouse+%26+Medallion+architectures+on+Azure+Databricks;Kafka+%C2%B7+Spark+%C2%B7+Delta+Lake+%C2%B7+dbt+%C2%B7+Airflow;Turning+raw+data+into+AI-ready+products" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Data+Engineer+%7C+Big+Data+Architect;Building+Real-Time+Streaming+Pipelines;AI+%2B+Cloud+%2B+Distributed+Systems" alt="Typing SVG" />
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/aymane70?style=for-the-badge&logo=github&logoColor=white&labelColor=282c34&color=A9FEF7)](https://github.com/aymane70)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-lambarki-a24938286/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fscrinne@gmail.com)
+<img src="https://img.shields.io/badge/Based_in-Rabat,_Morocco_🇲🇦-0f2027?style=flat-square" />
+<img src="https://img.shields.io/badge/Ex--Intern-CGI-E31937?style=flat-square" />
+<img src="https://img.shields.io/badge/INPT-Data_Engineering_(2026)-2c5364?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Open_to_opportunities-00d4aa?style=flat-square" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/aymane-lambarki"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aymanelambarki1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/aymane70?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+<br/>
 
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Aymane Lambarki"
-        self.location = "Rabat, Morocco 🇲🇦"
-        self.education = "INPT - Data Engineering"
-        self.role = "Data Engineer , ELT/ETL Pipeline Architect"
-        
-    def current_focus(self):
-        return [
-            "Building scalable data pipelines",
-            "Optimizing distributed systems",
-            "Seeking PFE internship in Data Engineering "
-        ]
+## 👋 About
+
+I'm a **Data / AI Engineer** who builds pipelines that move data from messy sources to analytics- and ML-ready tables, fast and reliably.
+I recently wrapped up an internship at **CGI**, where I helped migrate an enterprise data hub to **Azure Databricks** (Medallion architecture + Unity Catalog), and I enjoy pairing solid data engineering with practical AI (RAG, OCR, NLP).
+
+```text
+🎓 INPT Rabat — Data Engineering / Data Science (2023 – 2026)
+🏗️ Streaming, lakehouse and ELT pipelines, from ingestion to dashboards
+🤖 Applied AI: on-prem RAG assistants, fine-tuned classifiers, forecasting
+🌍 French (fluent) · Arabic (native) · English (professional)
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-### ⚡ Big Data & Streaming
-<p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-</p>
-
-### ☁️ Cloud Platforms
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Storage-AECBFA?style=for-the-badge&logo=google-cloud&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Data Warehouses
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-
-### 🔧 ETL/ELT & Data Orchestration
-<p>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white" />
-  <img src="https://img.shields.io/badge/Luigi-006600?style=for-the-badge&logo=luigi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dagster-654FF0?style=for-the-badge&logo=dagster&logoColor=white" />
-</p>
-
-### 🐳 DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
-### 📊 Data Visualization & BI
-<p>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Professional Journey
-
-```yaml
-Current_Status:
-  Role: Data Engineering Student
-  Institution: INPT (National Institute of Posts and Telecommunications)
-  Timeline: 2023 - 2026
-  Specialization: Big Data & AI Pipelines
-
-Experience:
-  - Position: Data Engineering Intern
-    Company: Fondation des Œuvres Sociales du MEF
-    Duration: June 2025 - Aug 2025
-    Focus: [AI Chatbot Integration, Document Processing, NLP Pipelines]
-    
-  - Position: Data Analysis Intern  
-    Project: YouTube Automation - INPT Academic
-    Duration: June 2024 - July 2024
-    Focus: [API Integration, ML Dataset Preparation, Trend Analysis]
-
-Seeking: PFE Internship in Big Data / AI Engineering
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌐 Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🇫🇷_French-Fluent-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇸🇦_Arabic-Native-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇬🇧_English-Professional-red?style=for-the-badge" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:fscrinne@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/aymane70">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="tel:+212671249261">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+## 🧭 What I Work With
 
 <div align="center">
-  
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> *"Transforming raw data into intelligent insights, one pipeline at a time"*
 
-![Snake animation](https://github.com/aymane70/aymane70/blob/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://komarev.com/ghpvc/?username=aymane70&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-
-**⚡ Open to collaborations and exciting Big Data/AI opportunities! ⚡**
+| | |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
+| **Streaming & Processing** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Spark](https://img.shields.io/badge/Spark_Structured_Streaming-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square) |
+| **Orchestration & Transform** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Databricks Asset Bundles](https://img.shields.io/badge/Databricks_Asset_Bundles-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+| **Cloud** | ![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) |
+| **Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **DevOps & Observability** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| **ML & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![RAG · FAISS · OCR](https://img.shields.io/badge/RAG_·_FAISS_·_OCR-6e40c9?style=flat-square) |
 
 </div>
+
+<br/>
+
+## 🏗️ How I Think About Pipelines
+
+```mermaid
+flowchart LR
+    A[("APIs · ServiceNow<br/>Data lake")] -->|Kafka<br/>topic per provider| B["🥉 Bronze<br/>raw ingestion"]
+    B -->|PySpark · Delta merge| C["🥈 Silver<br/>cleaned · deduped"]
+    C -->|dbt · business logic| D["🥇 Gold<br/>analytics-ready"]
+    D --> E["📊 Dashboards"]
+    D --> F["🤖 ML & AI"]
+    G{{"Unity Catalog<br/>governance"}} -.-> B
+    G -.-> C
+    G -.-> D
+    H{{"GitHub Actions<br/>dev → prod"}} -.-> B
+```
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="140"><b>Mar – Aug 2026</b></td>
+<td>
+<b>Data / AI Engineer Intern — CGI</b> · <i>Rabat</i><br/>
+Migrated an enterprise data hub from <b>Azure Data Factory + SQL Server</b> to <b>Azure Databricks</b> (Medallion) across <b>9 data providers</b>, adding governance with <b>Unity Catalog</b>.
+<ul>
+<li>Built the <b>Bronze layer</b> with Kafka (one topic per provider), ingesting <b>500K+ records/day</b></li>
+<li>Extended a pipeline-generation framework on <b>Databricks Asset Bundles</b> to automate <b>200+ ServiceNow pipelines</b> with idempotent Delta merges</li>
+<li>Set up <b>CI/CD</b> with GitHub Actions (dev → prod), plus logging, monitoring and alerting</li>
+<li>Prototyped ML use cases: energy consumption forecasting and cyber-attack detection</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><b>Jun – Aug 2025</b></td>
+<td>
+<b>Data / AI Intern — Fondation des Œuvres Sociales du MEF</b> · <i>Rabat</i><br/>
+Built an <b>on-premise AI assistant</b> for administrative work, so sensitive documents never leave the organization.
+<ul>
+<li>Ingestion pipeline for <b>11 document formats</b>, including scanned Arabic / French / English files (Tesseract OCR → embeddings → FAISS)</li>
+<li>Multi-user platform with secure login and per-user history; model is decoupled (local <b>Mistral-7B via llama.cpp</b> or external API)</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 Real-Time Fake News Detection
+Reddit → Kafka → Spark Structured Streaming → Cassandra, scoring every post with a fine-tuned **DistilRoBERTa** model. 10-service Docker Compose stack with Airflow health-check gating, Kafdrop and Grafana.
+
+`Kafka` `Spark` `Cassandra` `Airflow` `Grafana` `Docker`
+
+**[→ View repo](https://github.com/aymane70/RT-RedditFakeNewsClassifierPipeline)**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚽ CAN 2025 Analytics Warehouse
+ELT pipeline from public football APIs to Cloud Storage and **BigQuery**, modeled in **13 dbt models** (staging → intermediate → marts) with custom data-quality tests, lineage docs and a 5-page Streamlit dashboard.
+
+`dbt` `BigQuery` `GCS` `Streamlit` `Plotly`
+
+**[→ View repo](https://github.com/aymane70/CAN-2025-Data-Pipeline)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐙 Real-Time GitHub Activity Analytics
+Live GitHub Events → Kafka → Spark Structured Streaming → PostgreSQL. Insights on event types, most active repos and activity trends, orchestrated with Airflow and monitored in Grafana.
+
+`Kafka` `Spark` `PostgreSQL` `Airflow` `Grafana`
+
+**[→ View repo](https://github.com/aymane70/Real-Time-GitHub-events-pipeline)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Domain-Specific RAG Chatbot
+Retrieval-augmented pipeline for a domain-specific assistant: document ingestion, embeddings and semantic search feeding an LLM.
+
+`Python` `RAG` `Embeddings` `LLMs`
+
+**[→ View repo](https://github.com/aymane70/Domain-Specific-RAG-Pipeline-for-a-Chatbot)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Certified_ML_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-Certified_Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer_DP--700-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals_DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+<br/>
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aymane70&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymane70&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa" alt="Top languages" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤝 Let's build something
+
+If you're working on data platforms, streaming or applied AI, I'd love to chat.
+
+<a href="mailto:aymanelambarki1@gmail.com"><img src="https://img.shields.io/badge/Say_hello-00d4aa?style=for-the-badge&logo=gmail&logoColor=0f2027" /></a>
+
+<i>"Raw data in, reliable insight out."</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00d4aa,50:2c5364,100:0f2027&section=footer" width="100%" alt="" />
