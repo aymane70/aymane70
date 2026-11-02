@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Based_in-Rabat,_Morocco_🇲🇦-0f2027?style=flat-square" />
+<img src="https://img.shields.io/badge/Based_in-Rabat,_Morocco-0f2027?style=flat-square" />
 <img src="https://img.shields.io/badge/Ex--Intern-CGI-E31937?style=flat-square" />
 <img src="https://img.shields.io/badge/INPT-Data_Engineering_(2026)-2c5364?style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Open_to_opportunities-00d4aa?style=flat-square" />
@@ -23,21 +23,21 @@
 
 <br/>
 
-## 👋 About
+## About
 
 I'm a **Data / AI Engineer** who builds pipelines that move data from messy sources to analytics- and ML-ready tables, fast and reliably.
 I recently wrapped up an internship at **CGI**, where I helped migrate an enterprise data hub to **Azure Databricks** (Medallion architecture + Unity Catalog), and I enjoy pairing solid data engineering with practical AI (RAG, OCR, NLP).
 
 ```text
-🎓 INPT Rabat — Data Engineering / Data Science (2023 – 2026)
-🏗️ Streaming, lakehouse and ELT pipelines, from ingestion to dashboards
-🤖 Applied AI: on-prem RAG assistants, fine-tuned classifiers, forecasting
-🌍 French (fluent) · Arabic (native) · English (professional)
+INPT Rabat — Data Engineering / Data Science (2023 – 2026)
+Streaming, lakehouse and ELT pipelines, from ingestion to dashboards
+Applied AI: on-prem RAG assistants, fine-tuned classifiers, forecasting
+French (fluent) · Arabic (native) · English (professional)
 ```
 
 <br/>
 
-## 🧭 What I Work With
+## What I Work With
 
 <div align="center">
 
@@ -55,24 +55,54 @@ I recently wrapped up an internship at **CGI**, where I helped migrate an enterp
 
 <br/>
 
-## 🏗️ How I Think About Pipelines
+## Why Work With Me
 
-```mermaid
-flowchart LR
-    A[("APIs · ServiceNow<br/>Data lake")] -->|Kafka<br/>topic per provider| B["🥉 Bronze<br/>raw ingestion"]
-    B -->|PySpark · Delta merge| C["🥈 Silver<br/>cleaned · deduped"]
-    C -->|dbt · business logic| D["🥇 Gold<br/>analytics-ready"]
-    D --> E["📊 Dashboards"]
-    D --> F["🤖 ML & AI"]
-    G{{"Unity Catalog<br/>governance"}} -.-> B
-    G -.-> C
-    G -.-> D
-    H{{"GitHub Actions<br/>dev → prod"}} -.-> B
-```
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### I build end to end
+From raw ingestion to analytics-ready data and AI use cases, I own the whole journey instead of a single step.
+
+</td>
+<td width="33%" valign="top">
+
+### I build for production
+Reliable, governed, tested and automated. My pipelines are meant to run every day, not just to demo well.
+
+</td>
+<td width="33%" valign="top">
+
+### I bridge data and AI
+I'm equally comfortable with data platforms and applied AI, so the data I deliver is ready for what comes next.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### I learn fast
+Certified across Azure, AWS and Databricks, and used to picking up new stacks quickly.
+
+</td>
+<td valign="top">
+
+### I work well in teams
+Real enterprise experience: shared codebases, code reviews, CI/CD and clear communication.
+
+</td>
+<td valign="top">
+
+### I'm multilingual
+French, Arabic and English, so I can work with teams and stakeholders across regions.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 💼 Experience
+## Experience
 
 <table>
 <tr>
@@ -103,13 +133,13 @@ Built an <b>on-premise AI assistant</b> for administrative work, so sensitive do
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📰 Real-Time Fake News Detection
+### Real-Time Fake News Detection
 Reddit → Kafka → Spark Structured Streaming → Cassandra, scoring every post with a fine-tuned **DistilRoBERTa** model. 10-service Docker Compose stack with Airflow health-check gating, Kafdrop and Grafana.
 
 `Kafka` `Spark` `Cassandra` `Airflow` `Grafana` `Docker`
@@ -119,7 +149,7 @@ Reddit → Kafka → Spark Structured Streaming → Cassandra, scoring every pos
 </td>
 <td width="50%" valign="top">
 
-### ⚽ CAN 2025 Analytics Warehouse
+### CAN 2025 Analytics Warehouse
 ELT pipeline from public football APIs to Cloud Storage and **BigQuery**, modeled in **13 dbt models** (staging → intermediate → marts) with custom data-quality tests, lineage docs and a 5-page Streamlit dashboard.
 
 `dbt` `BigQuery` `GCS` `Streamlit` `Plotly`
@@ -131,7 +161,7 @@ ELT pipeline from public football APIs to Cloud Storage and **BigQuery**, modele
 <tr>
 <td width="50%" valign="top">
 
-### 🐙 Real-Time GitHub Activity Analytics
+### Real-Time GitHub Activity Analytics
 Live GitHub Events → Kafka → Spark Structured Streaming → PostgreSQL. Insights on event types, most active repos and activity trends, orchestrated with Airflow and monitored in Grafana.
 
 `Kafka` `Spark` `PostgreSQL` `Airflow` `Grafana`
@@ -141,7 +171,7 @@ Live GitHub Events → Kafka → Spark Structured Streaming → PostgreSQL. Insi
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Domain-Specific RAG Chatbot
+### Domain-Specific RAG Chatbot
 Retrieval-augmented pipeline for a domain-specific assistant: document ingestion, embeddings and semantic search feeding an LLM.
 
 `Python` `RAG` `Embeddings` `LLMs`
@@ -154,7 +184,7 @@ Retrieval-augmented pipeline for a domain-specific assistant: document ingestion
 
 <br/>
 
-## 🏅 Certifications
+## Certifications
 
 <p>
   <img src="https://img.shields.io/badge/AWS-Certified_ML_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -165,18 +195,9 @@ Retrieval-augmented pipeline for a domain-specific assistant: document ingestion
 
 <br/>
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aymane70&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymane70&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa" alt="Top languages" />
-</div>
-
-<br/>
-
 <div align="center">
 
-### 🤝 Let's build something
+### Let's build something
 
 If you're working on data platforms, streaming or applied AI, I'd love to chat.
 
