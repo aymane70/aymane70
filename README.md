@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/aymane70">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D4AA&center=true&vCenter=true&width=720&lines=Real-time+streaming+pipelines+%E2%9A%A1;Lakehouse+%26+Medallion+architectures+on+Azure+Databricks;Kafka+%C2%B7+Spark+%C2%B7+Delta+Lake+%C2%B7+dbt+%C2%B7+Airflow;Turning+raw+data+into+AI-ready+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D4AA&center=true&vCenter=true&width=720&lines=Real-time+streaming+pipelines;Lakehouse+%26+Medallion+architectures+on+Azure+Databricks;Kafka+%C2%B7+Spark+%C2%B7+Delta+Lake+%C2%B7+dbt+%C2%B7+Airflow;Turning+raw+data+into+AI-ready+products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="[https://www.linkedin.com/in/aymane-lambarki](https://www.linkedin.com/in/aymane-lambarki-a24938286/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aymane-lambarki-a24938286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aymanelambarki1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/aymane70?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
