@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/aymane-lambarki"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/aymane-lambarki](https://www.linkedin.com/in/aymane-lambarki-a24938286/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aymanelambarki1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/aymane70?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
