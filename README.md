@@ -45,9 +45,9 @@ French (fluent) · Arabic (native) · English (professional)
 |:--|:--|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
 | **Streaming & Processing** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Spark](https://img.shields.io/badge/Spark_Structured_Streaming-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square) |
-| **Orchestration & Transform** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Databricks Asset Bundles](https://img.shields.io/badge/Databricks_Asset_Bundles-FF3621?style=flat-square&logo=databricks&logoColor=white) |
-| **Cloud** | ![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) |
-| **Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Orchestration & Transform** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Databricks Asset Bundles](https://img.shields.io/badge/Databricks_Asset_Bundles-FF3621?style=flat-square) |
+| **Cloud** | ![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) |
+| **Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) |
 | **DevOps & Observability** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 | **ML & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![RAG · FAISS · OCR](https://img.shields.io/badge/RAG_·_FAISS_·_OCR-6e40c9?style=flat-square) |
 
@@ -187,10 +187,10 @@ Retrieval-augmented pipeline for a domain-specific assistant: document ingestion
 ## Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Certified_ML_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-Certified_Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer_DP--700-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals_DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img alt="AWS Certified ML Engineer Associate" src="https://img.shields.io/badge/AWS-Certified_ML_Engineer_Associate-FF9900?style=for-the-badge" />
+  <img alt="Databricks Certified Data Engineer Associate" src="https://img.shields.io/badge/Databricks-Certified_Data_Engineer_Associate-FF3621?style=for-the-badge" />
+  <img alt="Microsoft Fabric Data Engineer DP-700" src="https://img.shields.io/badge/Microsoft-Fabric_Data_Engineer_DP--700-0078D4?style=for-the-badge" />
+  <img alt="Microsoft Azure Data Fundamentals DP-900" src="https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals_DP--900-0078D4?style=for-the-badge" />
 </p>
 
 <br/>
